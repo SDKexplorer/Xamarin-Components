@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8DAl1zAV/Pxw+/oeqiY9R5R1NHL7iapQMeqcXyKHaMdXenhJtpveCVECpU/LZys24kDaJnyfm79FMDxPvxL16Q==",
+  "success": true,
+  "projectFilePath": "/Users/marius.chelariu/Desktop/Work/Xamarin/XamarinCustomComponents/XamarinCustomComponents/XamarinCustomComponents/XamarinCustomComponents.csproj",
+  "expectedPackageFiles": [
+    "/Users/marius.chelariu/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/marius.chelariu/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/marius.chelariu/.nuget/packages/rg.plugins.popup/2.1.0/rg.plugins.popup.2.1.0.nupkg.sha512",
+    "/Users/marius.chelariu/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

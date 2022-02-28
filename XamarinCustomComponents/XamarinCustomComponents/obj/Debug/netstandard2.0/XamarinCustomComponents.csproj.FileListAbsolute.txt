@@ -1,0 +1,15 @@
+/Users/marius.chelariu/Desktop/Work/Xamarin/XamarinCustomComponents/XamarinCustomComponents/XamarinCustomComponents/bin/Debug/netstandard2.0/XamarinCustomComponents.deps.json
+/Users/marius.chelariu/Desktop/Work/Xamarin/XamarinCustomComponents/XamarinCustomComponents/XamarinCustomComponents/bin/Debug/netstandard2.0/XamarinCustomComponents.dll
+/Users/marius.chelariu/Desktop/Work/Xamarin/XamarinCustomComponents/XamarinCustomComponents/XamarinCustomComponents/bin/Debug/netstandard2.0/XamarinCustomComponents.pdb
+/Users/marius.chelariu/Desktop/Work/Xamarin/XamarinCustomComponents/XamarinCustomComponents/XamarinCustomComponents/bin/Debug/netstandard2.0/Widgets.dll
+/Users/marius.chelariu/Desktop/Work/Xamarin/XamarinCustomComponents/XamarinCustomComponents/XamarinCustomComponents/bin/Debug/netstandard2.0/Widgets.pdb
+/Users/marius.chelariu/Desktop/Work/Xamarin/XamarinCustomComponents/XamarinCustomComponents/XamarinCustomComponents/obj/Debug/netstandard2.0/XamarinCustomComponents.csprojAssemblyReference.cache
+/Users/marius.chelariu/Desktop/Work/Xamarin/XamarinCustomComponents/XamarinCustomComponents/XamarinCustomComponents/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/marius.chelariu/Desktop/Work/Xamarin/XamarinCustomComponents/XamarinCustomComponents/XamarinCustomComponents/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/marius.chelariu/Desktop/Work/Xamarin/XamarinCustomComponents/XamarinCustomComponents/XamarinCustomComponents/obj/Debug/netstandard2.0/XamarinCustomComponents.AssemblyInfoInputs.cache
+/Users/marius.chelariu/Desktop/Work/Xamarin/XamarinCustomComponents/XamarinCustomComponents/XamarinCustomComponents/obj/Debug/netstandard2.0/XamarinCustomComponents.AssemblyInfo.cs
+/Users/marius.chelariu/Desktop/Work/Xamarin/XamarinCustomComponents/XamarinCustomComponents/XamarinCustomComponents/obj/Debug/netstandard2.0/XamarinCustomComponents.csproj.CoreCompileInputs.cache
+/Users/marius.chelariu/Desktop/Work/Xamarin/XamarinCustomComponents/XamarinCustomComponents/XamarinCustomComponents/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/marius.chelariu/Desktop/Work/Xamarin/XamarinCustomComponents/XamarinCustomComponents/XamarinCustomComponents/obj/Debug/netstandard2.0/XamarinCustomComponents.csproj.CopyComplete
+/Users/marius.chelariu/Desktop/Work/Xamarin/XamarinCustomComponents/XamarinCustomComponents/XamarinCustomComponents/obj/Debug/netstandard2.0/XamarinCustomComponents.dll
+/Users/marius.chelariu/Desktop/Work/Xamarin/XamarinCustomComponents/XamarinCustomComponents/XamarinCustomComponents/obj/Debug/netstandard2.0/XamarinCustomComponents.pdb

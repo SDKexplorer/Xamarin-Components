@@ -1,0 +1,12 @@
+/Users/marius.chelariu/Desktop/Work/Xamarin/XamarinCustomComponents/Widgets/bin/Debug/netstandard2.0/Widgets.deps.json
+/Users/marius.chelariu/Desktop/Work/Xamarin/XamarinCustomComponents/Widgets/bin/Debug/netstandard2.0/Widgets.dll
+/Users/marius.chelariu/Desktop/Work/Xamarin/XamarinCustomComponents/Widgets/bin/Debug/netstandard2.0/Widgets.pdb
+/Users/marius.chelariu/Desktop/Work/Xamarin/XamarinCustomComponents/Widgets/obj/Debug/netstandard2.0/Widgets.csprojAssemblyReference.cache
+/Users/marius.chelariu/Desktop/Work/Xamarin/XamarinCustomComponents/Widgets/obj/Debug/netstandard2.0/Components/ToastMessage/ToastMessageContainer.xaml.g.cs
+/Users/marius.chelariu/Desktop/Work/Xamarin/XamarinCustomComponents/Widgets/obj/Debug/netstandard2.0/Widgets.AssemblyInfoInputs.cache
+/Users/marius.chelariu/Desktop/Work/Xamarin/XamarinCustomComponents/Widgets/obj/Debug/netstandard2.0/Widgets.AssemblyInfo.cs
+/Users/marius.chelariu/Desktop/Work/Xamarin/XamarinCustomComponents/Widgets/obj/Debug/netstandard2.0/Widgets.csproj.CoreCompileInputs.cache
+/Users/marius.chelariu/Desktop/Work/Xamarin/XamarinCustomComponents/Widgets/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/marius.chelariu/Desktop/Work/Xamarin/XamarinCustomComponents/Widgets/obj/Debug/netstandard2.0/Widgets.dll
+/Users/marius.chelariu/Desktop/Work/Xamarin/XamarinCustomComponents/Widgets/obj/Debug/netstandard2.0/Widgets.pdb
+/Users/marius.chelariu/Desktop/Work/Xamarin/XamarinCustomComponents/Widgets/obj/Debug/netstandard2.0/Components/ToastMessage/ToastMessage.xaml.g.cs
